@@ -40,7 +40,7 @@ Drought severity is classified into four stages, No Drought (0), Moderate (1), S
 
 Bolinger, R.A., J.J. Lukas, R.S. Schumacher, and P.E. Goble, 2024: Climate Change in Colorado, 3rd edition. Colorado State University, https://doi.org/10.25675/10217/237323
 
-Colorado Climate Action. Climate Change in Colorado: Public Health and Environmental Impacts | Climate. https://climate.colorado.gov/health-and-environmental-impacts 
+Colorado Climate Action. Climate Change in Colorado: Public Health and Environmental Impacts | Climate. https://climate.colorado.gov/health-and-environmental-impacts
 
 United States Department of Agriculture. Drought Impacts in the Rocky Mountain Region. Sept. 2017, www.fs.usda.gov/sites/default/files/r2-droughtfactsheet.pdf
 
