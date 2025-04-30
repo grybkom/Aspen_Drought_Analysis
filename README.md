@@ -7,3 +7,14 @@ Environmental factors influencing drought conditions in Aspen, Colorado, from mi
 - `AspenClimateDataCleaning` — Downloads, cleans, and merges raw climate and drought datasets. Outputs a cleaned `.parquet` file.
 - `AspenDroughtPredictionModels` — Loads `class_aspen.parquet` and applies statistical models to explore and predict climate-driven drought patterns.
 - `data/class_aspen.parquet` — The cleaned and merged dataset used in the analysis notebook.
+
+project_root/
+|
+
+data/
+  ├── raw/
+  │   ├── weather.csv
+  │   ├── climate.csv
+  │   └── drought.csv
+  └── cleaned/
+      └── class_aspen.parquet
