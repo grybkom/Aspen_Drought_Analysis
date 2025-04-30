@@ -38,21 +38,27 @@ Drought severity is classified into four stages, No Drought (0), Moderate (1), S
 
 ## References:
 
--Bolinger, R.A., J.J. Lukas, R.S. Schumacher, and P.E. Goble, 2024: Climate Change in Colorado, 3rd edition. Colorado State University, https://doi.org/10.25675/10217/237323.
--Colorado Climate Action. Climate Change in Colorado: Public Health and Environmental Impacts | Climate. climate.colorado.gov/health-and-environmental-impacts.
--United States Department of Agriculture. Drought Impacts in the Rocky Mountain Region. Sept. 2017, www.fs.usda.gov/sites/default/files/r2-droughtfactsheet.pdf.
+Bolinger, R.A., J.J. Lukas, R.S. Schumacher, and P.E. Goble, 2024: Climate Change in Colorado, 3rd edition. Colorado State University, https://doi.org/10.25675/10217/237323.
+
+Colorado Climate Action. Climate Change in Colorado: Public Health and Environmental Impacts | Climate. climate.colorado.gov/health-and-environmental-impacts.
+
+United States Department of Agriculture. Drought Impacts in the Rocky Mountain Region. Sept. 2017, www.fs.usda.gov/sites/default/files/r2-droughtfactsheet.pdf.
 
 ## Data Sources:
 
--Weather data, precipitation, max temperature and min temperature, Aspen Pitkin Co Airport Sardy Field, CO US:
+Weather data, precipitation, max temperature and min temperature, Aspen Pitkin Co Airport Sardy Field, CO US:
 https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00093073/detail
--Daily discharge data for Lincoln Creek, Near Aspen, CO:
+
+Daily discharge data for Lincoln Creek, Near Aspen, CO:
 https://dashboard.waterdata.usgs.gov/api/gwis/2.1/service/site?agencyCode=USGS&siteNumber=09073005&open=211313
--Ground water level data, drought well near Aspen, CO:
+
+Ground water level data, drought well near Aspen, CO:
 https://dashboard.waterdata.usgs.gov/api/gwis/2.1/service/site?agencyCode=USGS&siteNumber=395136108210004&open=212313
--Soil moisture and temperature data Montrose, CO: 
+
+Soil moisture and temperature data Montrose, CO: 
 https://www.ncei.noaa.gov/data/us-climate-reference-network/access/derived-products/soil/soilanom/
--Drought data, Pitkin County, CO:
+
+Drought data, Pitkin County, CO:
 https://www.drought.gov/states/colorado/county/pitkin
 
 
