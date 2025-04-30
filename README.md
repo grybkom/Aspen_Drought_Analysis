@@ -30,7 +30,7 @@ Environmental factors influencing drought conditions in Aspen, Colorado, from mi
 - daily_discharge_cms: Water Flow in Cubic Centimeters per Second
 
 ### Response
-Drought severity is classified into four stages No Drought (0), Moderate (1), Severe (2), Extreme (3), 'Exceptional (4)
+Drought severity is classified into four stages, No Drought (0), Moderate (1), Severe (2), Extreme (3), 'Exceptional (4)
 ![Drought_Bar](https://github.com/user-attachments/assets/649cd6f8-4c86-4529-acdb-8f2fc37802e7)
 
 
