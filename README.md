@@ -17,6 +17,14 @@ Drought is an environmental phenomenon when there is not enough water available 
 - `AspenDroughtPredictionModels` — Loads `class_aspen.parquet` and applies statistical models to explore and predict climate-driven drought patterns.
 - `data/class_aspen.parquet` — The cleaned and merged dataset used in the analysis notebook.
 
+## Language
+- Python
+    - [tensorflow](https://www.tensorflow.org/)
+    - [sklearn](https://scikit-learn.org/stable/)
+    - [pandas](https://pandas.pydata.org/)
+    - [matplotlib](https://matplotlib.org/)
+    - [dataretrieval.nwis](https://pypi.org/project/dataretrieval/)
+
 ## Data
 ### Predictors
 - date: Date of Observations in Format year-month-day from 2010-06-22 to 2023-12-27
