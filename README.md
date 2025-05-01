@@ -36,6 +36,15 @@ Drought is an environmental phenomenon when there is not enough water available 
 Drought severity is classified into four stages, No Drought (0), Moderate (1), Severe (2), Extreme (3), 'Exceptional (4)
 ![Drought_Bar](https://github.com/user-attachments/assets/649cd6f8-4c86-4529-acdb-8f2fc37802e7)
 
+## Results
+### PCA
+![PCA_Explained_Variance_Bar](https://github.com/user-attachments/assets/035afbd0-c301-48ba-807e-d24414ae08a9)
+### Neural Networks
+![NN_Accuracy_per_Epoch](https://github.com/user-attachments/assets/7e80c2a3-c586-4239-9b0d-b43f6a9c931b)
+![NN_Confusion_Matrix](https://github.com/user-attachments/assets/a4eb14c4-10c7-4df9-a1ce-323a6fe1e3ed)
+### K-means Clustering
+![Kmeans_Results](https://github.com/user-attachments/assets/760e96c6-3afb-4eb5-a551-63eba4ab323f)
+
 ## References:
 
 Bolinger, R.A., J.J. Lukas, R.S. Schumacher, and P.E. Goble, 2024: Climate Change in Colorado, 3rd edition. Colorado State University, https://doi.org/10.25675/10217/237323
