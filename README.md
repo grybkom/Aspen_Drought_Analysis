@@ -70,6 +70,8 @@ https://www.ncei.noaa.gov/data/us-climate-reference-network/access/derived-produ
 Drought data, Pitkin County, CO:
 https://www.drought.gov/states/colorado/county/pitkin
 
+## Author
 
+Michael Grybko - GitHub username: grybkom
 
 
