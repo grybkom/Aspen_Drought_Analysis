@@ -47,6 +47,8 @@ Drought severity is classified into four stages, No Drought (0), Moderate (1), S
 ## Results
 ### PCA
 ![PCA_Explained_Variance_Bar](https://github.com/user-attachments/assets/035afbd0-c301-48ba-807e-d24414ae08a9)
+<img width="1071" alt="pca_coefficients" src="https://github.com/user-attachments/assets/ee3f557b-20da-4a16-b1cb-746345d52ad3" />
+
 ### Neural Networks
 ![NN_Accuracy_per_Epoch](https://github.com/user-attachments/assets/7e80c2a3-c586-4239-9b0d-b43f6a9c931b)
 ![NN_Confusion_Matrix](https://github.com/user-attachments/assets/a4eb14c4-10c7-4df9-a1ce-323a6fe1e3ed)
