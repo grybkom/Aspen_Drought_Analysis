@@ -19,10 +19,10 @@ Drought is an environmental phenomenon when there is not enough water available 
 
 ## Language
 - Python
-    - [tensorflow](https://www.tensorflow.org/)
-    - [sklearn](https://scikit-learn.org/stable/)
+    - [TensorFlow](https://www.tensorflow.org/)
+    - [Scikit-learn](https://scikit-learn.org/stable/)
     - [pandas](https://pandas.pydata.org/)
-    - [matplotlib](https://matplotlib.org/)
+    - [Matplotlib](https://matplotlib.org/)
     - [dataretrieval.nwis](https://pypi.org/project/dataretrieval/)
 
 ## Data
